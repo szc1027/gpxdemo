@@ -1,0 +1,53 @@
+{
+    
+    
+         "totalpage": 5,
+         "pagenum": 4,
+         "users": [
+             {   
+                "index":1,
+                 "id": 25,
+                 "username": "tige117",
+                 "mobile": "18616358651",
+                 "type": 1,
+                   "email": "tige112@163.com",
+                   "create_time": "2017-11-09T20:36:26.000Z",
+                   "mg_state": true,
+                  "role_name": "炒鸡管理员"
+               },
+             {
+              "index":2,
+                 "id": 25,
+                 "username": "linken",
+                 "mobile": "18658651",
+                 "type": 1,
+                   "email": "tige112@163.com",
+                   "create_time": "2017-11-09T20:36:26.000Z",
+                   "mg_state": true,
+                  "role_name": "炒鸡管理员"
+               },
+             {
+              "index":3,
+                 "id": 25,
+                 "username": "asdf1",
+                 "mobile": "1861651",
+                 "type": 1,
+                   "email": "tige112@163.com",
+                   "create_time": "2017-11-09T20:36:26.000Z",
+                   "mg_state": true,
+                  "role_name": "炒鸡管理员"
+               },
+             {
+              "index":4,
+                 "id": 25,
+                 "username": "asdf123",
+                 "mobile": "15464561",
+                 "type": 1,
+                   "email": "tige112@163.com",
+                   "create_time": "2017-11-09T20:36:26.000Z",
+                   "mg_state": true,
+                  "role_name": "炒鸡管理员"
+               }
+           ]
+        
+    }
